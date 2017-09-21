@@ -6,7 +6,7 @@ public class TestMain {
 		
 		System.out.println("hello world!");
 		
-		Sysotem.out.println("aaaaaaaaaaaaa");
+		System.out.println("aaaaaaaaaaaaa");
 		
 	}
 	
